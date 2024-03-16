@@ -23,6 +23,8 @@ Currently, the business faces the following challenges:
 
 # The Solution 
 
+![The Solution](https://github.com/WayneRose-95/powerbi-data-analytics-report/assets/89411656/9062ff22-4a48-4f82-bf5f-3e22a54a34bf)
+
 The solution is to utilise Microsoft Power BI to design a comprehensive quarterly report. 
 
 The sales data from the disparate sources, will be extracted and transformed. Subsequently, a robust data model rooted in a star-based schema will be created to help construct a multi-page report. 
