@@ -1,8 +1,9 @@
 # powerbi-data-analytics-report
 A repository hosting a PowerBI Data Analytics Report for a Fictional Retail Company
 
-# The Scenario 
-![Fictional Company](https://github.com/WayneRose-95/powerbi-data-analytics-report/assets/89411656/5c9a73a6-42dc-46dd-9f9e-27f76fa55074)
+# The Scenario
+
+![Fictional Company](https://github.com/WayneRose-95/powerbi-data-analytics-report/assets/89411656/8a39d797-2e26-4c8c-ba38-22f577c38f77)
 
 
 You have recently been approached by a medium-sized international retailer who is keen on elevating their business intelligence practices. With operations spanning across different regions, they've accumulated large amounts of sales from disparate sources over the years.
