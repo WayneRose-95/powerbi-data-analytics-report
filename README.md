@@ -29,6 +29,9 @@ The solution is to utilise Microsoft Power BI to design a comprehensive quarterl
 
 The sales data from the disparate sources, will be extracted and transformed. Subsequently, a robust data model rooted in a star-based schema will be created to help construct a multi-page report. 
 
+![The Data Model](https://github.com/WayneRose-95/powerbi-data-analytics-report/assets/89411656/d8760272-6b42-4e09-ad13-8c370d7e3e78)
+
+
 # Report Features 
 The report, attached to this repository contains the following features:
 
@@ -39,7 +42,7 @@ The report, attached to this repository contains the following features:
 
 # Wiki 
 
-For a more in-depth analysis on how this project was completed, please view the Wiki page hosted on this repository via this link. 
+For a more in-depth analysis on how this project was completed, along with a general guide on navigating the report, please view the Wiki page hosted on this repository via this [link](https://github.com/WayneRose-95/powerbi-data-analytics-report/wiki). 
 
 # Future Improvements 
 
